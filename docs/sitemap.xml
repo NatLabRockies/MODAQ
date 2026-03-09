@@ -1,43 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://nrel.github.io/MODAQ/</loc>
-         <lastmod>2025-12-10</lastmod>
+         <loc>https://natlabrockies.github.io/MODAQ/</loc>
+         <lastmod>2026-03-09</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://nrel.github.io/MODAQ/FAQ/</loc>
-         <lastmod>2025-12-10</lastmod>
+         <loc>https://natlabrockies.github.io/MODAQ/FAQ/</loc>
+         <lastmod>2026-03-09</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://nrel.github.io/MODAQ/about/</loc>
-         <lastmod>2025-12-10</lastmod>
+         <loc>https://natlabrockies.github.io/MODAQ/about/</loc>
+         <lastmod>2026-03-09</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://nrel.github.io/MODAQ/dev_modules/</loc>
-         <lastmod>2025-12-10</lastmod>
+         <loc>https://natlabrockies.github.io/MODAQ/dev_modules/</loc>
+         <lastmod>2026-03-09</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://nrel.github.io/MODAQ/h_architecture/</loc>
-         <lastmod>2025-12-10</lastmod>
+         <loc>https://natlabrockies.github.io/MODAQ/h_architecture/</loc>
+         <lastmod>2026-03-09</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://nrel.github.io/MODAQ/links/</loc>
-         <lastmod>2025-12-10</lastmod>
+         <loc>https://natlabrockies.github.io/MODAQ/links/</loc>
+         <lastmod>2026-03-09</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://nrel.github.io/MODAQ/ref_design/</loc>
-         <lastmod>2025-12-10</lastmod>
+         <loc>https://natlabrockies.github.io/MODAQ/ref_design/</loc>
+         <lastmod>2026-03-09</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://nrel.github.io/MODAQ/s_architecture/</loc>
-         <lastmod>2025-12-10</lastmod>
+         <loc>https://natlabrockies.github.io/MODAQ/s_architecture/</loc>
+         <lastmod>2026-03-09</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://nrel.github.io/MODAQ/sensor_inst_db/</loc>
-         <lastmod>2025-12-10</lastmod>
+         <loc>https://natlabrockies.github.io/MODAQ/sensor_inst_db/</loc>
+         <lastmod>2026-03-09</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://nrel.github.io/MODAQ/tech_ref/</loc>
-         <lastmod>2025-12-10</lastmod>
+         <loc>https://natlabrockies.github.io/MODAQ/tech_ref/</loc>
+         <lastmod>2026-03-09</lastmod>
+         <changefreq>daily</changefreq>
     </url>
 </urlset>
