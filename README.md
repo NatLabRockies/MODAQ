@@ -10,4 +10,4 @@ There are also mechanisms for us to assist or partner in your projects. Read mor
 
 NLR Software Record number: SWR-24-58 “MODAQ (Modular Offshore Data Acquisition System)
 
->MODAQ documentation is available here: https://nrel.github.io/MODAQ/
+>MODAQ documentation is available here: https://NatLabRockies.github.io/MODAQ/
